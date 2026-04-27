@@ -1,36 +1,69 @@
 ---
 layout: default
-title: The Guardian Link
-description: Security automation for Discord — ban alerts, cross-server intelligence, and audit-ready moderation logs.
+title: Guardian Link
+description: Security automation for Discord with cross-server alerts, moderation intelligence, and audit-ready logs.
 ---
 
 ## Overview
 
-**The Guardian Link** is a server security companion for Discord.  
-It helps moderation teams share ban alerts across linked servers, track moderation actions, and standardize notifications using configurable embed styles.
+**Guardian Link** helps Discord moderation teams coordinate across communities. It focuses on security automation, shared ban intelligence, alert routing, and consistent logging so staff can review incidents quickly and with context.
 
----
+## Features
 
-## Key Features
+- Cross-server ban alerts for linked communities
+- Configurable embed styles and moderation notifications
+- Audit-ready logs for review and incident history
+- Allowlist and denylist support to reduce false positives
+- Slash-command driven workflows for admins and moderators
 
-- Cross-server ban alerts (linked / partner servers)
-- Allowlists / denylists to reduce false positives
-- Audit-ready moderation logs
-- Configurable notifications with multiple embed designs
-- Slash commands built for moderators and admins
+## Quick Start
 
----
+1. Invite the bot with the permissions required for your moderation flow.
+2. Configure the alert and logging channels you want staff to monitor.
+3. Set up any server-link or partner-network options your team uses.
+4. Run a test moderation action and verify the resulting alert output.
 
-## Documentation
+## Commands
 
-- **Embed Designs:** see [Embed Designs](readme/embeds.html)
-- **Commands:** see [Commands](readme/commands.html)
+Guardian Link is organized around a few core command groups:
 
----
+- Network and server-link configuration
+- Alert routing and embed style setup
+- Allowlist and denylist management
+- Staff review and moderation utilities
 
-## Getting Started (Server Admin)
+Use the built-in help command in the bot for the exact slash command names enabled in your deployment.
 
-1. Invite the bot with the correct permissions  
-2. Configure the server link / network settings if applicable  
-3. Choose an embed style for alerts and logs  
-4. Run a test action and confirm logging channels are correct
+## Required Permissions
+
+- View Channels
+- Send Messages
+- Embed Links
+- Read Message History
+- Use Slash Commands
+- Manage Webhooks if you use webhook-based logging
+
+## Troubleshooting
+
+- If alerts are not posting, confirm the log channel configuration and send/embed permissions first.
+- If partner-server activity is missing, review the current network or link configuration.
+- If logs look incomplete, check the selected embed style and any webhook-based routing.
+- If staff are seeing too many false positives, revisit the active allowlist and denylist rules.
+
+## FAQ
+
+### Is Guardian Link only for large networks?
+
+No. It can still help smaller moderation teams centralize alerts and keep cleaner records.
+
+### Can I customize how alerts look?
+
+Yes. The docs and existing assets show multiple embed styles and layouts for moderation notifications.
+
+### What is the best first test after setup?
+
+Run a safe staff-side test action and verify that the correct channel, formatting, and recipients are used.
+
+## Support
+
+Use the Support button above for setup help, moderation workflow questions, or deployment guidance from Afterparty Bot Labs.
