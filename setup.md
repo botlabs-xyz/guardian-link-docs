@@ -24,7 +24,7 @@ Create or pick channels for:
 
 ### 4. Set channels in bot commands
 
-Use your alert/log setup commands from [Commands]({{ '/commands/' | relative_url }}) to connect the correct channels.
+Use your alert/log setup commands from [Commands](/guardian-link-docs/commands/) to connect the correct channels.
 
 ### 5. Test moderation flow
 
