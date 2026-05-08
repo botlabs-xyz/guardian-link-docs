@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Commands
 description: List of available Guardian Link commands.
@@ -15,9 +15,9 @@ See also:
 
 Bans a user from your server.
 
-`member` — The user to ban. You can mention the user (`@user`) or provide their user ID.
+`member` â€” The user to ban. You can mention the user (`@user`) or provide their user ID.
 
-`reason` — Optional reason for the ban. If left blank, it will default to **"no reason"**.
+`reason` â€” Optional reason for the ban. If left blank, it will default to **"no reason"**.
 
 ---
 
@@ -56,4 +56,5 @@ See the full guide:
 
 ---
 
-← Back to [Home](../index.html)
+â† Back to [Home](../index.html)
+
