@@ -45,6 +45,6 @@ Guardian Link helps server owners and moderation teams coordinate safety alerts,
 
 ## Next Steps
 
-- Complete the setup sequence in [Setup](/guardian-link-docs/setup/) and confirm alert/log channels.
+- Complete [Setup](/guardian-link-docs/setup/) and confirm alert/log channels.
 - Review [Permissions](/guardian-link-docs/permissions/) so moderation actions and role updates work correctly.
 - If logging or alerts fail, follow [Troubleshooting](/guardian-link-docs/troubleshooting/) before contacting support.
