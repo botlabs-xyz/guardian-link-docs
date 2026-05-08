@@ -6,25 +6,33 @@ description: Security automation for Discord with cross-server alerts, moderatio
 
 ## Overview
 
-Guardian Link helps server owners and mod teams share safety alerts, track risky behavior across partnered communities, and keep clean moderation logs.
+Guardian Link helps server owners and moderation teams coordinate safety alerts, monitor risk patterns, and keep clear audit-ready records across Discord communities.
 
 <div class="doc-grid">
   <div class="doc-card">
     <h3>Start Here</h3>
-    <p>Set up logging channels, alert channels, and your first moderation flow.</p>
+    <p>Invite the bot, configure your alert and logging channels, and run a test moderation event.</p>
     <p><a href="/guardian-link-docs/setup/">Open Setup Guide</a></p>
   </div>
   <div class="doc-card">
-    <h3>Command Reference</h3>
-    <p>Review core commands for alerts, blacklist controls, and moderation actions.</p>
+    <h3>Commands</h3>
+    <p>Review command coverage for alert setup, network controls, and blacklist moderation actions.</p>
     <p><a href="/guardian-link-docs/commands/">Open Commands</a></p>
   </div>
   <div class="doc-card">
-    <h3>Fix Common Issues</h3>
-    <p>Follow simple checks when alerts, logs, or role actions do not work.</p>
+    <h3>Troubleshooting</h3>
+    <p>Fix common role, channel, logging, and moderation flow issues with simple server-owner steps.</p>
     <p><a href="/guardian-link-docs/troubleshooting/">Open Troubleshooting</a></p>
   </div>
 </div>
+
+## Core Features
+
+- Cross-server moderation alert sharing for partner communities
+- Moderation intelligence and incident review workflows
+- Invite logging and alert channel routing controls
+- Blacklist-based protection and enforcement support
+- Structured logs for staff accountability and audits
 
 ## Project Links
 
@@ -35,10 +43,8 @@ Guardian Link helps server owners and mod teams share safety alerts, track risky
   <a class="btn secondary" href="https://afterpartylabs.xyz/bot/guardian-link" target="_blank" rel="noopener noreferrer">Afterparty Bot Labs</a>
 </div>
 
-## What Guardian Link Helps With
+## Next Steps
 
-- Cross-server alert sharing for partnered communities
-- Moderation intelligence and risk review workflows
-- Invite logging and safety monitoring
-- Blacklist-based protective actions
-- Centralized logging for moderation transparency
+- Complete the setup sequence in [Setup](/guardian-link-docs/setup/) and confirm alert/log channels.
+- Review [Permissions](/guardian-link-docs/permissions/) so moderation actions and role updates work correctly.
+- If logging or alerts fail, follow [Troubleshooting](/guardian-link-docs/troubleshooting/) before contacting support.
