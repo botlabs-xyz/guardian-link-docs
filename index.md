@@ -34,6 +34,27 @@ Guardian Link helps server owners and moderation teams coordinate safety alerts,
 - Blacklist-based protection and enforcement support
 - Structured logs for staff accountability and audits
 
+## Alert & Log Examples
+
+<div class="embed-grid">
+  <figure class="embed-card">
+    <img src="{{ '/assets/img/embeds/Embeds1.png' | relative_url }}" alt="Ban Notification Example">
+    <figcaption>Ban Notification Example</figcaption>
+  </figure>
+  <figure class="embed-card">
+    <img src="{{ '/assets/img/embeds/Embeds2.png' | relative_url }}" alt="Cross-Server Alert Example">
+    <figcaption>Cross-Server Alert Example</figcaption>
+  </figure>
+  <figure class="embed-card">
+    <img src="{{ '/assets/img/embeds/Embeds4.png' | relative_url }}" alt="Audit Log Example">
+    <figcaption>Audit Log Example</figcaption>
+  </figure>
+  <figure class="embed-card">
+    <img src="{{ '/assets/img/embeds/Embeds5.png' | relative_url }}" alt="Security Review Example">
+    <figcaption>Security Review Example</figcaption>
+  </figure>
+</div>
+
 ## Project Links
 
 <div class="cta">
