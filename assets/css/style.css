@@ -47,6 +47,8 @@ h1, h2, h3, h4 { color: #fff; line-height: 1.25; }
 .embed-card { margin: 0; background: var(--card); border: 1px solid rgba(97, 90, 200, .38); border-radius: 14px; padding: .7rem; box-shadow: 0 8px 20px rgba(31, 26, 122, .14); }
 .embed-card img { display: block; width: 100%; max-width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--border); }
 .embed-card figcaption { margin-top: .55rem; font-size: .92rem; color: var(--muted); }
+.embed-grid-preview .embed-card img { max-height: 210px; object-fit: cover; object-position: top; }
+.embed-grid-full .embed-card img { max-height: 420px; object-fit: contain; background: #0c1124; }
 .doc-card h3, .faq-card h3 { margin-top: 0; }
 p, li { color: #e8eafe; }
 small, .muted { color: var(--muted); }

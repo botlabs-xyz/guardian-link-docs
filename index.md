@@ -36,7 +36,7 @@ Guardian Link helps server owners and moderation teams coordinate safety alerts,
 
 ## Alert & Log Examples
 
-<div class="embed-grid">
+<div class="embed-grid embed-grid-preview">
   <figure class="embed-card">
     <img src="{{ '/assets/img/embeds/Embeds1.png' | relative_url }}" alt="Ban Notification Example">
     <figcaption>Ban Notification Example</figcaption>
@@ -54,6 +54,7 @@ Guardian Link helps server owners and moderation teams coordinate safety alerts,
     <figcaption>Security Review Example</figcaption>
   </figure>
 </div>
+<p><a class="btn secondary" href="{{ '/examples/' | relative_url }}">View All Examples</a></p>
 
 ## Project Links
 
