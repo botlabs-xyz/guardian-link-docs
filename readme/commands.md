@@ -7,7 +7,7 @@ description: List of available Guardian Link commands.
 # Commands
 
 See also:  
-[Incoming Blacklist Guide](incoming_blacklist.html)
+[Incoming Blacklist Guide]({{ '/readme/incoming_blacklist.md' | relative_url }})
 
 ---
 
@@ -26,7 +26,7 @@ Bans a user from your server.
 Adds a word or phrase to the **incoming blacklist**.
 
 See the full guide:  
-[Incoming Blacklist Guide](incoming_blacklist.html)
+[Incoming Blacklist Guide]({{ '/readme/incoming_blacklist.md' | relative_url }})
 
 ---
 
@@ -37,7 +37,7 @@ Displays all currently blacklisted incoming words.
 Each entry will be assigned a number.
 
 See the full guide:  
-[Incoming Blacklist Guide](incoming_blacklist.html)
+[Incoming Blacklist Guide]({{ '/readme/incoming_blacklist.md' | relative_url }})
 
 ---
 
@@ -52,9 +52,9 @@ The number can be obtained by running:
 ```
 
 See the full guide:  
-[Incoming Blacklist Guide](incoming_blacklist.html)
+[Incoming Blacklist Guide]({{ '/readme/incoming_blacklist.md' | relative_url }})
 
 ---
 
-<- Back to [Home](../index.html)
+<- Back to [Home]({{ '/' | relative_url }})
 

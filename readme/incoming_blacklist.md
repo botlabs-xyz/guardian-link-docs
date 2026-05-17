@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Incoming Blacklist
 description: How the Guardian Link incoming blacklist system works.
@@ -98,4 +98,5 @@ This would remove the third item from the blacklist.
 
 ---
 
-← Back to [Commands](commands.html)
+<- Back to [Commands]({{ '/readme/commands.md' | relative_url }})
+
