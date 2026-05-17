@@ -98,5 +98,6 @@ This would remove the third item from the blacklist.
 
 ---
 
-<- Back to [Commands]({{ '/readme/commands.md' | relative_url }})
+<- Back to [Commands](commands.md)
+
 
