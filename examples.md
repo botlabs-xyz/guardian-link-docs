@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Alert & Log Examples
-description: Real Guardian Link embed examples for moderation alerts, cross-server notifications, and audit logs.
+description: Real Guardian Link alert and log examples.`r`npermalink: /examples/
 ---
 
 ## Alert & Log Examples
@@ -40,3 +40,4 @@ See full-size examples of Guardian Link alert and logging embeds used across mod
 </div>
 
 <p><a class="btn secondary" href="{{ '/' | relative_url }}">Back to Home</a></p>
+
