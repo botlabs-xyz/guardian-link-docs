@@ -24,4 +24,8 @@ permalink: /commands/
 | `/support` | Shares support server details. | Send Messages, Use Application Commands | `/support` |
 | `/invite` | Shares official invite link. | Send Messages, Use Application Commands | `/invite` |
 
+### Blacklist Guide
+
+Need full details for incoming word/phrase filtering? See the [Incoming Blacklist Guide]({{ '/blacklist/' | relative_url }}).
+
 > Command availability can vary slightly by deployment version. Use `/help` in your server for the exact active list.
