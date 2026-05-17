@@ -54,7 +54,6 @@ Guardian Link helps server owners and moderation teams coordinate safety alerts,
     <figcaption>Security Review Example</figcaption>
   </figure>
 </div>
-<p><a class="btn secondary" href="{{ '/examples/' | relative_url }}">View All Examples</a></p>
 
 ## Project Links
 
